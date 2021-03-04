@@ -1,0 +1,20 @@
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+.boy1 {
+  background-image: linear-gradient(to right, blue, red, green);
+}
+.boy2 {
+  background-image: linear-gradient(to right, yellow, lime, aqua);
+}
+a {
+  text-decoration: none;
+  font-size: 40px;
+}
+a:hover {
+  border: 1px solid;
+  margin: 20px;
+  background-color: yellow;
+}
